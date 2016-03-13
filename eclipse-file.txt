@@ -1,2 +1,4 @@
-push to a new branch -> nother test conten content change made during seconf commit
+additional changes on master
+
+ush to a new branch -> nother test conten content change made during seconf commit
 
