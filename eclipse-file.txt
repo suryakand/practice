@@ -1,3 +1,4 @@
+another change on master
 making chnages on master
 
 trying to add local change on new-branch that will be pushed to master after getting more changes from master.
